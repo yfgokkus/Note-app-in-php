@@ -1,0 +1,12 @@
+# Ignore config with sensitive credentials
+config.local.php
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore vendor folders (if using Composer or similar)
+vendor/
